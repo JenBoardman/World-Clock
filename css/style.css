@@ -62,11 +62,13 @@ select {
 }
 
 a {
-  color: #ccbebe;
+  color: #00d26a;
+  text-decoration: none;
 }
 
 footer {
   text-align: center;
-  font-size: 14px;
-  color: #82757d;
+  font-size: 15px;
+  color: #9b9bae;
+  font-weight: 300;
 }
